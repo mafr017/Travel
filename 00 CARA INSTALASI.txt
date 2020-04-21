@@ -1,0 +1,2 @@
+1 buat database dengan nama travel
+2 buka database lalu pilih tab impor, pilih file travel sql
