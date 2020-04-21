@@ -1,5 +1,5 @@
 # Travel (Sisfo Travel)
-Web-Based Travel Information System Project
+Web-Based Travel Information System
 
 ### Note
 - Admin features incomplete.
